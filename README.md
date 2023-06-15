@@ -1,2 +1,2 @@
 # rpg-test
-An rpg unity game test
+A rpg unity videogame test
